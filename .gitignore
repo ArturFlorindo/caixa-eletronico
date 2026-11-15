@@ -1,0 +1,15 @@
+# Executaveis
+caixa-eletronico
+caixa-eletronico.exe
+*.out
+
+# Arquivos de compilacao
+*.o
+*.obj
+build/
+dist/
+
+# Editor e sistema operacional
+.vscode/
+.DS_Store
+Thumbs.db
